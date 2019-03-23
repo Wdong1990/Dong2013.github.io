@@ -1899,7 +1899,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #78ff8f;
+  background: #8508ff;
 }
 .feed-link,
 .chat {
@@ -3133,4 +3133,14 @@ ul.breadcrumb li+li:last-child {
   .pagination {
     margin: 8px 0 0;
   }
+}
+code {
+  overflow-wrap: break-word;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  padding: 2px 4px;
+  color: #900000;
+  background: #ffe5e5;
+  border-radius: 3px;
+  font-size: 14px;
 }
