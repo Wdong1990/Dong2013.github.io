@@ -1899,7 +1899,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff8c8e;
+  background: #770914;
 }
 .feed-link,
 .chat {
@@ -2051,6 +2051,7 @@ pre .javascript .function {
 .post-toc .nav-item {
   overflow: hidden;
   text-overflow: ellipsis;
+  white-space: nowrap;
   line-height: 1.8;
 }
 .post-toc .nav .nav-child {
@@ -3135,4 +3136,29 @@ code {
   font-size: 30px;
   font-weight: normal;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+.tag-cloud a {
+  display: inline-block;
+  margin: 10px;
+  text-shadow: 0 0 1px rgba(0,0,0,0.741);
+}
+.posts-expand .post-title-link {
+  line-height: inherit;
+  text-shadow: 0 0 1px #000;
+}
+p {
+  margin: 0 0 20px 0;
+  text-shadow: 0 0 0.1px #000;
+}
+.sidebar-nav .sidebar-nav-active {
+  color: #c5031e;
+  border-bottom-color: #c5031e;
+  text-shadow: 0 0 1px #6d6b62;
+}
+.post-toc .nav-item {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  line-height: 1.8;
+  text-shadow: 0 0 0.5px #5f5e5e;
 }
