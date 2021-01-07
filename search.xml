@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[02 Economics]]></title>
-    <url>%2F2020%2F06%2F23%2FCFA%2F02%20Economic%2F</url>
-    <content type="text"><![CDATA[]]></content>
+    <title><![CDATA[03 Corporate Finance]]></title>
+    <url>%2F2020%2F10%2F23%2FCFA%2F03%20Corporate%20Finance%2F</url>
+    <content type="text"><![CDATA[01 Brief IntroductionCapital Budgeting &amp; Its PrinciplesCapital budgetingThe process that companies use for decision making on capital projects-those projects with a life of a year or more（不少于一年的）. Typical steps in the capital budgeting process Step 1: Generating ideas. Step 2: Analyzing individual project proposals(策划书). Step 3: Planning the capital budget for the firm. Step 4: Monitoring decisions and conducting a post-audit（事后审计，复盘）. 02 Capital Budgeting ★Types of capital projects (step 1) Replacement projects projects to maintain the business. projects for cost reduction – need detailed analysis. Expansion projects New products or services Mandatory projects – for safety and environment （政府强制） Other projects – pet projects（宠物项目：依据与老板的个人兴趣爱好）, R&amp;D projects （research &amp;develop） Principles of capital budgeting (step 2)（三要两不要，时间更重要） Inclue The after tax incremental cash flows(税后现金流增量) provide a sound basis forcapital budgeting. It involves basic principles as follows: Opportunity costs : the foregone return of the resource invests in the next-best project. Externalities : cannibalization (negative effect) 利益侵蚀(新推出的无糖可乐寝室有糖可乐份额) synergy (positive effect).协同效应 Exclude Sunk costs – decisions should not be affected by sunk costs.(沉默成本：在项目进行前的咨询，调研，历史采购) Financing costs – they are considered in discount rate (avoiding double counting problem).（融资成本） Timing value of cash flows is crucial. Valuation methods for single project (step 2) 计算，优缺点，NPV vs IRR的矛盾 Net present value (NPV)the sum of the present value of the future after-tax cash flows. ​ 计算器联系 If NPV &gt; 0, then accept/invest. If NPV &lt; 0, then reject/not invest. Advantages: Directly reflects the expect change of firm’s value. Disadvantages: Ignore the size of the project.(投资1w赚100和投资1千赚100) Internal rate of return (IRR)(内部收益率)The discount rate that makes the total present value of all cashflows, the NPV equal to zero. If IRR &gt; cost of capital, then accept/invest. If IRR &lt; cost of capital, then reject/not invest. Advantages： It reflects the profitability（盈利能力） Disadvantages： Multiple and no IRR problem （可能多个解或者无解） Conventional cash flows: cash flows change signs once.(传统的，只有第一次负数)Non conventional cash flows: cash flows change signs morethan once. Impractical implicit assumption of reinvestment rate（不好操作） Payback period (PB)(投资回收期)Payback period （PB） Discounted payback period (DPB)&gt;PB Profitability index (PI) 盈利指数 If PI &gt; 1, then accept/invest. If PI &lt; 1, then reject/not invest. NPV &amp; IRR &amp; PI For single/independent project, NPV, IRR and PI give the same accept/reject decisions. If NPV&gt;0, IRR&gt;cost of capital, PI&gt;1; and vice versa. If NPV&lt;0, IRR&lt;cost of capital, PI&lt;1; and vice versa. Project interaction (step 3) Independent projects: projects are unrelated to each other. Unlimited funds: the firm can raise the funds it wants for allprofitable projects. Mutually exclusive projects: projects compete directly witheach other. Capital rationing: the firm has a fixed amount of funds toinvest. Project sequencing: projects should be taken in time order. 1 两个IRR根据项目固定，不会改变 2 crossover rate一定小于最小的 3 在crossover 左侧出现矛盾 4 required rate of return小于 crossover rate Choose the project with higher NPV 03 Cost of Capital ★Weighted Average Cost of CapitalCost of capital：The rate of return that the suppliers of capital require as compensation for their contribution of capital, or the opportunity cost of funds for the suppliers of capital. A company can raise capital from: Debt Common equity Preferred stock w = the proportion of each resource for the company to raisesnew funds, and should be base on the market value（而非book value）.kd = the before-tax marginal cost of debt.kps = the marginal cost of preferred stock.kce = the marginal cost of common equity.t = the company’s marginal tax rate.(税盾) Application of WACCCapital-budgeting decision making1 Decide the optimal capital budget. Marginal cost of capital (MCC): the cost of an additional dollarof capital. MCC generally increases as the firm increases thecapital raised.Investment opportunity schedule (IOS): returns to acompany’s investment opportunities generally decrease as thecompany make additional investments. 一定要在左侧 When using the company’s WACC as discount rate in the calculation of the NPV of a project, there are two implied assumptions:The project has the average-risk of the company. If project’s risk &gt; average-risk: discount rate will be underestimated, and NPV will be overestimated. If project’s risk &lt; average-risk: discount rate will be overestimated, and NPV will be underestimated. The company will have a constant target capital structure throughout its useful life. Cost of Debt and Preferred stock（必考计算） YTM approach持有至到期收益率 Debt-rating approach Using the yield (kd) on comparably rated bonds for maturities that closely match that of the company‘s existing debt. Cost of preferred stock Cost of common equity1 CAPM approach 2 DDM approach ★ 3 Bond yield plus risk premium Cost of Capital for a Project04 Measures of Leverage05 Working Capital Management]]></content>
       <categories>
-        <category>CFA</category>
+        <category>hexo</category>
       </categories>
       <tags>
-        <tag>CFA</tag>
+        <tag>hexo</tag>
+        <tag>typora</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[typora一起使用]]></title>
+    <url>%2F2020%2F06%2F23%2Fhexo%2F%E5%92%8Ctypora%E4%B8%80%E8%B5%B7%E4%BD%BF%E7%94%A8%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>typora</tag>
       </tags>
   </entry>
   <entry>
